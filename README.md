@@ -1,3 +1,3 @@
 # Structured-Query-Language
 
-This repository includes all SQL assignments completed during Semester 1. It demonstrates my understanding of relational databases, SQL queries, joins, subqueries, and data handling fundamentals.
+This repository contains my Semester 1 SQL assignments, covering fundamental database concepts, queries, and hands-on practice using structured query language.
